@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="Lb11">Please enter No 1</string>
+    <string name="hint1">Enter only numbers</string>
+    <string name="text1">Dilshan mohomad</string>
+    <string name="Hint2">Enter name</string>
+</resources>
