@@ -4,4 +4,8 @@
     <string name="hint1">Enter only numbers</string>
     <string name="text1">Dilshan mohomad</string>
     <string name="Hint2">Enter name</string>
+    <string name="t1">Enter Email</string>
+    <string name="E1">Enter Email</string>
+    <string name="s">Submit</string>
+    <string name="c">Cancel</string>
 </resources>
